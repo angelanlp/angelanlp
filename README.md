@@ -11,8 +11,6 @@ _Here you can find the updates of the code that will be developed._
 _To see how the project works the only requirements are that you have a text editor installed and that you have installed the ubuntu's shell and you know how to work with them.  _
 
 
-
-
 ## Authors ✒️
 
 * **Gabriela Moles Bazan** - *Student of the BACHELOR IN MOBILE AND SPACE COMMUNICATIONS ENGINEERING* -
